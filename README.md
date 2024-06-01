@@ -40,10 +40,10 @@ A flexibilidade e a popularidade do Git o tornam uma ótima escolha para qualque
 Aqui está uma lista dos (principais comandos do git e suas funcionalidades)[https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/].
 
 #### Guia Rápido do Commit/Push
-* Na pasta raiz do seu repositório local, digite git status para reconhecer os arquivos a serem commitados
-* Digite git add nome_do_arquivo para cada um dos arquivos ou git . para adicionar todos os arquivos alterados ao commit
-* Digite git commit -m "mensagem_do_commit" para commitar os arquivos
-* Se o commit for bem sucedido, digite git push para subir os arquivos ao repositório remoto
+* Na pasta raiz do seu repositório local, digite `git status` para reconhecer os arquivos a serem commitados
+* Digite `git add nome_do_arquivo` para cada um dos arquivos ou `git .` para adicionar todos os arquivos alterados ao commit
+* Digite `git commit -m "mensagem_do_commit"` para commitar os arquivos
+* Se o commit for bem sucedido, digite `git push` para subir os arquivos ao repositório remoto
 
 ### GitHub
 O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças. Geralmente o código é aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado de seu progresso.
