@@ -37,7 +37,7 @@ O Git é um sistema de controle de versão distribuído, o que significa que um 
 
 A flexibilidade e a popularidade do Git o tornam uma ótima escolha para qualquer equipe. Muitos desenvolvedores e universitários já sabem como usar o Git. A comunidade de usuários do Git criou recursos para treinar desenvolvedores, e a popularidade do Git facilita a obtenção de ajuda quando necessário. Quase todos os ambientes de desenvolvimento têm suporte ao Git e as ferramentas de linha de comando do Git implementadas em todos os principais sistemas operacionais.
 
-Aqui está uma lista dos (principais comandos do git e suas funcionalidades)[https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/].
+Aqui está uma lista dos [principais comandos do git e suas funcionalidades](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/).
 
 #### Guia Rápido do Commit/Push
 * Na pasta raiz do seu repositório local, digite `git status` para reconhecer os arquivos a serem commitados
