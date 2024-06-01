@@ -21,7 +21,6 @@ O que veremos na aula de hoje?
 * GIT
 * GitHub
 * Markdown
-* Exercício da semana
 
 
 ### Arquivo .py
