@@ -54,7 +54,7 @@ A plataforma GitHub também funciona como rede social, conectando os desenvolved
 ### Markdown
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub. Textos estilizados com Markdown são, na maioria dos casos, apenas texto com caracteres não-alfabéticos, como #, \* e ![](), usados para a configuração de títulos, listas, itálico, negrito e inserção de imagens.
 
-Aqui está uma (lista com os principais comandos de markdown)[https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open].
+Aqui está uma [lista com os principais comandos de markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open).
 
 ### Exercício da semana
 Crie um arquivo Markdown chamado apresentacao.md e nele preencha as seguintes informações:
