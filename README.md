@@ -6,6 +6,8 @@
 
 ON35 | Semana 01 | 2024 | Agnes Ignácio
 
+![entrapta](https://static.wikia.nocookie.net/ad1ba8f8-d808-4eab-bf10-070bccba586f/scale-to-width/755)
+
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
 * Fork esse repositório 
