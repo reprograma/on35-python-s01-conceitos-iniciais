@@ -5,7 +5,7 @@
 
 Gosto do meu nome e tenho alguns apelidos que meus amigos utilizam: Mile, Jami, Jam, Milinha
 
-![Texto alternativo](https://giphy.com/gifs/3ohc10GA6j4XrLWzZK)
+![Texto alternativo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwb21rODFheDFyZjBhZzJtZThtZWprYnFxdzZidXZpbXpvbjFubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif)
 
 <!-- <iframe src="https://giphy.com/embed/3ohc10GA6j4XrLWzZK" width="387" height="220" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohc10GA6j4XrLWzZK"></a></p> -->
 
