@@ -11,7 +11,7 @@ Me considero uma pessoa bastante sonhadora. Mas o meu maior sonho é morar fora 
 - ## Se pudesse ser um personagem, qual seria?
 Isabel Iglesias de **"Club de Cuervos"**. 
 
-![Isabel Iglesias](https://giphy.com/gifs/netflixlat-club-de-cuervos-pPditGhAozvbgyf5Hy)
+![Isabel Iglesias](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFqYjJ5aDVwOWRjd2xseTN0cmNoaHNjanV1bjJyMXBmbGJwY3d3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pPditGhAozvbgyf5Hy/giphy.gif)
 
 Isso é um pouco de mim para vocês conhecerem. Qualquer pergunta fiquem a vontade. 
 
