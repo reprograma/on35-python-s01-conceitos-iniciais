@@ -23,6 +23,4 @@ Se pudesse ser uma personagem, gostaria de ser a Ariel, Lilo ou Moana, acho que 
 ***Abraços Oceânicos,*
 *Papi***
 
-![Instagram ](https://br.freepik.com/vetores-gratis/icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia_18246125.htm#query=logotipo%20instagram&position=0&from_view=keyword&track=ais_user&uuid=d1163518-a6b3-47a5-b3e5-b88cceddb6fd)
-
  [Rede Social](https://www.instagram.com/oceanoterapeuta/)
