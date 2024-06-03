@@ -43,7 +43,7 @@ Aqui está uma lista dos [principais comandos do git e suas funcionalidades](htt
 
 #### Guia Rápido do Commit/Push
 * Na pasta raiz do seu repositório local, digite `git status` para reconhecer os arquivos a serem commitados
-* Digite `git add nome_do_arquivo` para cada um dos arquivos ou `git .` para adicionar todos os arquivos alterados ao commit
+* Digite `git add nome_do_arquivo` para cada um dos arquivos ou `git add .` para adicionar todos os arquivos alterados ao commit
 * Digite `git commit -m "mensagem_do_commit"` para commitar os arquivos
 * Se o commit for bem sucedido, digite `git push` para subir os arquivos ao repositório remoto
 
