@@ -1,6 +1,6 @@
 # **QUEM É THALITA CARNEIRO?**
 
-Inhaí, pessoal! Meu nome é Thalita Carneiro. Mas podem me chamar de **Thali** ou **Carneirinho**. Para me conhecerem melhor, vou deixar algumas curiosidades aqui embaixo.
+Hey, pessoal! Meu nome é Thalita Carneiro. Mas podem me chamar de **Thali** ou **Carneirinho**. Para me conhecerem melhor, vou deixar algumas curiosidades aqui embaixo.
 
 - ## Quando penso em comer, o que me dá água na boca?
 Como uma boa formiguinha que sou, eu diria que a minha comida favorita até o momento é o *petit gateu*. Mas se for pra escolher um "prato principal" eu garanto que é um *bife a parmegiana com batata frita*.
