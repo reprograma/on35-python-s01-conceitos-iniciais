@@ -5,4 +5,4 @@
  - *Brincar na neve.*
  - *Minha personagem favorita é a Mulher Maravilha.*
 
- ![](mulher-maravilha.gif/scale-to-width/755)
+ ![](mulher-maravilha.gif)
