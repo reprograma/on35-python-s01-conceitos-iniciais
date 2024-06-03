@@ -1,4 +1,4 @@
-##ON35 | Semana 01 | 2024 | Clara Teodoro
+## ON35 | Semana 01 | 2024 | Clara Teodoro
 
 * Gosto de ser chamada por **Clara**!
 * Minha comida favorita é **moqueca**
