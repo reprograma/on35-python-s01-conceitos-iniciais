@@ -5,7 +5,9 @@
 
 Gosto do meu nome e tenho alguns apelidos que meus amigos utilizam: Mile, Jami, Jam, Milinha
 
-<iframe src="https://giphy.com/embed/3ohc10GA6j4XrLWzZK" width="387" height="220" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohc10GA6j4XrLWzZK"></a></p>
+![Texto alternativo](https://giphy.com/embed/3ohc10GA6j4XrLWzZK)
+
+<!-- <iframe src="https://giphy.com/embed/3ohc10GA6j4XrLWzZK" width="387" height="220" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohc10GA6j4XrLWzZK"></a></p> -->
 
 Acabo não tendo nenhuma prefência. Então, gosto de ser chamada pelo meu nome assim como também pelos apelidos citados acima
 >Questão 2
