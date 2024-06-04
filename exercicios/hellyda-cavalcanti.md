@@ -3,8 +3,12 @@
 * **Como prefere ser chamada**
 
 Meu nome é **Héllyda**!!!
+
 ![enter image description here](https://media.giphy.com/media/JSueytO5O29yM/giphy.gif?cid=790b7611h67tp6pp19aab04dxgxde8jipxf883tu64ghdiyk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ### **Daí essa é a hora que as pessoas comentam:** 
+
  "*diferente, né?"
  "tem algum significado?"
  "Qual a origem?"*
@@ -16,11 +20,13 @@ Minha avó se chamava Hellytt Nélida e meu pai já tinha uma filha do primeiro 
 
 * **Sua comida preferida**
 
+
 ![enter image description here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJtaGg4ZnJ5Y25pM2szcmkxNWU3c2ZwZzBtY2wwaXpva291ZGdnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jn2iXu2HRpMuovBrrV/giphy.gif)
 
 * **Um sonho**
 
 ![enter image description here](https://media.giphy.com/media/5fBH6z8aMV1RbA4FaSc/giphy.gif?cid=790b7611w642zwm44yudjt6hld8udxz4dxfna281k1a85f5m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 Ponderei muito se o sonho seria esse mesmo, mas acho que a estabilidade financeira é o sonho para poder realizar outros sonhos. *E quais são esses outros sonhos?* 
 
  * Conforto  
@@ -35,4 +41,11 @@ Ponderei muito se o sonho seria esse mesmo, mas acho que a estabilidade financei
  * Ser a tia rhyka do rolê
 
  - **Se pudesse ser um personagem, quem seria?**
+
+
 ![enter image description here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhZHluNTN5MTZ3Zjh5NDdlNDlub2FvdHZoZm90Yms3cXk0MGhwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMKMqZ9SboPcNUs/giphy.gif)
+
+-  **Signo**
+
+
+![enter image description here](https://media.giphy.com/media/ZwhKzalzTkG68TiCze/giphy.gif?cid=790b7611tuweju0kqbj5vf8yw0bkuycl38ysx498pbo8uhlm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
