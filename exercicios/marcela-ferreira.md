@@ -8,7 +8,7 @@ Olá girls !! Sou a **Marcela Ferreira**
 
  **-   Sua comida preferida**
  
- Torremos 🥓 e comida japonessa 🍣
+ Torresmos 🥓 e comida japonessa 🍣
 
 ![delicious](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFjZDBiZm1rZHR4emlpamZxd3dvcDR5ODhxMWdvOTY5NTRsbzRjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o1L62bxVs7zgtqs3Dx/giphy.webp)
 
