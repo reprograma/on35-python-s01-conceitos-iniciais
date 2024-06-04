@@ -7,4 +7,4 @@
 
 E muito bom saber que vou dividir esses meses de aulas com todas vocês, muito obrigada desde já!
 
-                                              ![figura]()https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkZHR2aW0zMWoybGx0Y2pidXAyZWd3YjVoOHJnMGZpbmdwbTZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OtSERKyJriAzUZoF53/giphy.webp
+![figura]()https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkZHR2aW0zMWoybGx0Y2pidXAyZWd3YjVoOHJnMGZpbmdwbTZiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OtSERKyJriAzUZoF53/giphy.webp
