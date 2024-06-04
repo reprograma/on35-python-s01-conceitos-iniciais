@@ -1,5 +1,5 @@
 ## Olá, pessoas!!!
-![oi](https://github.com/daiass/on35-python-s01-conceitos-iniciais.git)
+![oi](https://media3.giphy.com/media/noyBeNjH4nbtXV5ZLA/200.webp?cid=790b7611bpmfziuum4nm266a20dr7x2ikemk1s9xr5usj3wi&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 Eu sou a Daiana, mas pode chamar de Dai 😉.
 
