@@ -6,8 +6,11 @@ Pode me chamar de Mi, Mile ou Milena kkkk
 Mas entre os doces amo bolo de aniversário e amo comida baiana também (sim! Eu sou baiana, nasci em Salvador)
 Estou morando no Sul do Brasil há 1 ano, mas na esperança de logo logo ir me embora daqui. 
 
-<center><iframe src="https://giphy.com/embed/KZHDsJWKswnFCeGEVt" width="150" height="270" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<div align = "center"> 
 
+![bolo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgyYnRpaHpsdzB6ZjNlNGtlYXY1ZnFuY2YwZDg4MG03MGk5aXdiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZHDsJWKswnFCeGEVt/giphy.webp)
+
+</div>
 
 **<center> *Meu sonho é ser rica!!* 🤗**
 
@@ -15,4 +18,8 @@ Estou morando no Sul do Brasil há 1 ano, mas na esperança de logo logo ir me e
 
 <center>Se eu fosse um personagem seria a Moana!
 
-<center><iframe src="https://giphy.com/embed/l4JyXbxb2eGJhzuYE" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a
+<div align = "center"> 
+
+![Moana](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q5cTZudjM4ajQ2dHdsN3VueDJmbzc1YXp5NTF5NDhobGJrMzNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyXbxb2eGJhzuYE/giphy.webp)
+
+</d>
