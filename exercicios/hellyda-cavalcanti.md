@@ -22,6 +22,7 @@ Minha avó se chamava Hellytt Nélida e meu pai já tinha uma filha do primeiro 
 * **Um sonho**
 
 ![enter image description here](https://media.giphy.com/media/5fBH6z8aMV1RbA4FaSc/giphy.gif?cid=790b7611w642zwm44yudjt6hld8udxz4dxfna281k1a85f5m&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 Ponderei muito se o sonho seria esse mesmo, mas acho que a estabilidade financeira é o sonho para poder realizar outros sonhos. *E quais são esses outros sonhos?* 
 
  * Conforto  
