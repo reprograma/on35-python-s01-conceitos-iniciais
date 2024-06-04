@@ -36,4 +36,5 @@ Ponderei muito se o sonho seria esse mesmo, mas acho que a estabilidade financei
  * Ser a tia rhyka do rolê
 
  - **Se pudesse ser um personagem, quem seria?**
+ - 
 ![enter image description here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhZHluNTN5MTZ3Zjh5NDdlNDlub2FvdHZoZm90Yms3cXk0MGhwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMKMqZ9SboPcNUs/giphy.gif)
