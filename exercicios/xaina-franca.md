@@ -1,4 +1,4 @@
-('# oi oi oi pessoal!
+# oi oi oi pessoal!
 
 Me chamo Xainã França, mas pode me chamar de Xai se preferir. ✴️ Sou **recifense**, adoro viajar e conhecer pessoas novas e sou uma aspirante a **analista de dados**.
 
@@ -10,4 +10,4 @@ Parece um caminho cansativo, mas eu adoro aprender coisas novas. Também gosto m
 
 Um sonho que eu tenho é ter uma **casa própria**. Acredito que isso se enquadra no que eu acredito como a qualidade de vida que eu acredito para mim. *Quero um futuro feliz, seguro e instigante*. 
 
-Bem, se eu fosse um personagem, eu certamente seria a **Raven**, da série *That's so Raven*. Não porque eu consigo ver o futuro, mas por causa da personalidade dela.')
+Bem, se eu fosse um personagem, eu certamente seria a **Raven**, da série *That's so Raven*. Não porque eu consigo ver o futuro, mas por causa da personalidade dela.
