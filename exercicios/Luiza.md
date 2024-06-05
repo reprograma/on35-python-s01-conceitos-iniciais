@@ -1,2 +1,2 @@
 Olá meu nome é **Luiza mas prefiro que me chame de Lu**, minha comida favorita é pizza ou o x aqui da esquina com bastante maionese caseira kkk. No momento meu maior sonho é conseguir um trabalho de forma remota e que ganhe bem pra quem sabe num futuro próximo conseguir conquistar a casa própria. Se eu pudesse ser uma personagem seria a **Phoebe Buffay** de friends. 
-![enter image description here] (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdzZXRqNWJkbWlsMmF6czc3OWxjZW1rOXloY3Z4YzY1Y2ZjbjIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kcmrc56W4lDZqGptxP/giphy.webp)
+![figura] (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdzZXRqNWJkbWlsMmF6czc3OWxjZW1rOXloY3Z4YzY1Y2ZjbjIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kcmrc56W4lDZqGptxP/giphy.webp)
