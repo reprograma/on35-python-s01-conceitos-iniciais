@@ -13,7 +13,7 @@ Turma ON35 | Aula 01/06/2024 | Ellen Missias Santiago
 
 #### Minha comida favorita é:
 Frutos do mar
-
+.
 
 ![Frutos do mar](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRvYXcyYnNnN21rZXdib2w1NzBkZGM4c2F2eWM3cGR0bXFjZnQzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2JjDO2aWovqo0/giphy.webp)
 
