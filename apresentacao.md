@@ -1,0 +1,1 @@
+Olá, meu nome é Ana Paula Carvalho, mas a maioria das pessoas me chamam de Ana - e eu gosto. Minha comida preferida é massa - qualquer massa - e meu sonho é ter uma casa com varanda e quintal grandes. Se eu pudesse ser uma personagem, eu seria a Tia Vivian de Um Maluco no Pedaço. 
